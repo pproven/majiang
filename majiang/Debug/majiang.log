@@ -1,0 +1,21 @@
+﻿  majiang.cpp
+c:\users\zhaoyq\desktop\majiang\majiang\func.h(188): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\func.h(215): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\func.h(219): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\func.h(264): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\func.h(318): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\func.h(326): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\func.h(336): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\func.h(358): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\func.h(381): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\func.h(393): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\func.h(406): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\majiang.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\majiang.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\majiang.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\majiang.cpp(95): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\majiang.cpp(122): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\majiang.cpp(134): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhaoyq\desktop\majiang\majiang\majiang.cpp(147): warning C4018: “>”: 有符号/无符号不匹配
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1205,5): warning MSB8012: TargetPath(D:\Debug\majiang.exe) 与 Linker 的 OutputFile 属性值(C:\Users\zhaoyq\Desktop\majiang\Debug\majiang.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+  majiang.vcxproj -> D:\Debug\majiang.exe
